@@ -22,7 +22,7 @@ Notes:
 -----
 
 -   If you are expecting to see data, but nothing shows up, check that line 69
-	in the Processing sketch "int useThisUSBPort = 0;" corresponds to the USB port
+	in the Processing sketch <code>int useThisUSBPort = 0;</code> corresponds to the USB port
 	you plugged the radio into.
 	
 	
